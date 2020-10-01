@@ -1,4 +1,6 @@
-# Hackintosh Dell Inspiron-5577 i5-5000-Gaming-SeriesI have managed to successfully run Catalina 10.15.6 on my MSI GV62 7RE. Sleep is a bit wonky.
+# Hackintosh Dell Inspiron-5577 i5-5000-Gaming-Series
+
+I have managed to successfully run Catalina 10.15.6 on my Dell Inspiron 5577.
 
 ![opencore](https://github.com/acidanthera/OpenCorePkg/raw/master/Docs/Logos/OpenCore_with_text_Small.png)
 
